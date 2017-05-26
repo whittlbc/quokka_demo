@@ -1,6 +1,6 @@
 $(document).ready(function() {
   var demoImagesDir = 'http://quokkadev.s3-website-us-west-1.amazonaws.com/demo/';
-  var images = ['home', 'challenge', 'habit'];
+  var images = ['challenge', 'habit'];
   var index = 0;
   var $img = $('.pic');
 
